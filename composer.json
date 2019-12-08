@@ -1,14 +1,12 @@
 {
-    "name": "laravel-admin-ext/api-tester",
+    "name": " haryosurya/sapi",
     "description": "Api tester for laravel",
     "type": "library",
-    "keywords": ["laravel-admin", "api", "tester"],
-    "homepage": "https://github.com/laravel-admin-extensions/api-tester",
+    "keywords": ["laravel"],
     "license": "MIT",
     "authors": [
         {
-            "name": "z-song",
-            "email": "zosong@126.com"
+            "name": "yuks"
         }
     ],
     "require": {

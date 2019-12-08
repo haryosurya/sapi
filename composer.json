@@ -1,5 +1,5 @@
 {
-    "name": " haryosurya/sapi",
+    "name": "haryosurya/sapi",
     "description": "Api tester for laravel",
     "type": "library",
     "keywords": ["laravel"],
